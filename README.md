@@ -29,4 +29,3 @@ A proposta do Math.ia é oferecer um ambiente limpo e intuitivo para estudantes 
 *<img width="1327" height="615" alt="image" src="https://github.com/user-attachments/assets/d7f06eb3-5ddd-4781-9b09-db20a8bc879a" />
 <img width="1346" height="628" alt="image" src="https://github.com/user-attachments/assets/7c576989-8cb3-4275-84ab-2085c69df434" />
 
-*
