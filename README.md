@@ -30,8 +30,3 @@ A proposta do Math.ia é oferecer um ambiente limpo e intuitivo para estudantes 
 <img width="1346" height="628" alt="image" src="https://github.com/user-attachments/assets/7c576989-8cb3-4275-84ab-2085c69df434" />
 
 *
-
-```html
-<p align="center">
-  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q2aDFwOHRveGpxcTUzMXZ4OG5wbjJrdmppNXc5MzlnaGV3bmdkOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q2aDFwOHRveGpxcTUzMXZ4OG5wbjJrdmppNXc5MzlnaGV3bmdkOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif)" width="700" alt="Math UI Preview" />
-</p>
